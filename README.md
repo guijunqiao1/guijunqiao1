@@ -13,6 +13,8 @@
 - 💻 Major is **software engineering**.
 - 🌱 I'm currently learning **Web development**. 
 - This is my email: **3535139173@qq.com**.
+- blog:<a href="https://www.yuque.com/guiiii/ylgvqo"> 桂--blog </a>
+
 
 - **If you like this readme file, please give me star! ❤️**
 
